@@ -2,8 +2,6 @@
 import streamlit as st
 from snowflake.snowpark.functions import col
 
-pip install --upgrade pip
-
 # Write directly to the app
 st.title(f"Choose Your Smoothie! :cup_with_straw:")
 st.write(
